@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+node_modules
+wp-content/themes/html5blank/src/bower_components
+.sass-cache
